@@ -1,0 +1,7 @@
+/* obtained from https://github.com/adrianhajdin/project_chat_application */
+
+.messages {
+  padding: 5% 0;
+  overflow: auto;
+  flex: auto;
+}
